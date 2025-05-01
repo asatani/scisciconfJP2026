@@ -8,7 +8,7 @@ header:
 ---
 
 <div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; border-radius:5px;">
-  第3回Science of Science研究会の開催が決定しました。
+  第3回 Science of Science 研究会（5/31~6/1）の開催が決定しました。
 参加申し込み等は <a href="https://2025.scisci.jp/">こちら</a>から
 </div>
 
