@@ -85,7 +85,7 @@ header:
 </div>
 
 <div style="background-color:#FFF3CD; border:1px solid #FFE08A; color:#856404; padding:12px 15px; border-radius:5px; margin:20px 0;">
-  🍻 <strong>懇親会について</strong>：1日目（7月4日）18:00より三ノ宮にて懇親会を予定しています。参加をご希望の方は、<strong>2026年6月25日(木)まで</strong>に参加登録フォームでその旨をご登録ください。
+  🍻 <strong>懇親会について</strong>：参加をご希望の方は、<strong>2026年6月25日(木)まで</strong>に参加登録フォームでその旨をご登録ください。
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
