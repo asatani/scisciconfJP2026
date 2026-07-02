@@ -10,7 +10,7 @@ header:
 <div style="background-color:#4CAF50; color:white; padding:15px; text-align:center; border-radius:5px; margin-bottom:20px; font-weight:bold;">
   📢 プログラムを公開しました！ 📢<br>
   参加登録受付中（締切：2026年6月28日（日））<br>
-  <a href="https://docs.google.com/document/d/1swVCdtPq6k2FxvjSOWRu_694QkcQW4MOk3A_5UHU_KA/edit?usp=sharing" target="_blank" rel="noopener" style="color:white; text-decoration:underline;">プログラムはこちら</a>　|　<a href="#cfp" style="color:white; text-decoration:underline;">開催概要・参加登録はこちら</a>
+  <a href="{{ '/program/' | relative_url }}" style="color:white; text-decoration:underline;">プログラムはこちら</a>　|　<a href="#cfp" style="color:white; text-decoration:underline;">開催概要・参加登録はこちら</a>
 </div>
 
 <div style="border:2px solid #FF0000; background-color:#FFF5F5; padding:12px 15px; border-radius:5px; margin-bottom:20px; text-align:center;">
@@ -24,9 +24,9 @@ header:
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
-  <a href="https://docs.google.com/document/d/1swVCdtPq6k2FxvjSOWRu_694QkcQW4MOk3A_5UHU_KA/edit?usp=sharing" target="_blank" rel="noopener"
+  <a href="{{ '/program/' | relative_url }}"
      style="background-color: #2c3e50; color: white; padding: 12px 24px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; margin: 5px;">
-    📋 プログラムを見る（Google ドキュメント）
+    📋 プログラムを見る
   </a>
 </div>
 
