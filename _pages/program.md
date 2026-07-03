@@ -108,7 +108,8 @@ table.prog-table .idg-cell { font-weight:bold; color:#26a69a; white-space:nowrap
         <li>ジェンダー別にパフォーマンスと共著構造の差異を理解する</li>
         <li>CD-index [Funk &amp; Owen-Smith, <em>Manage. Sci.</em>, 2017; Wu et al., <em>Nature</em>, 2019] を実装して論文の革新性を評価する</li>
       </ol>
-      <p class="tut-note">※ PC（Mac/Windows/Linux等）をご持参いただくことを推奨します。ブラウザからGoogle Colabへアクセスして手元で分析コードを動かせます。コードは6月末までに公開予定です。</p>
+      <p class="tut-note">※ PC（Mac/Windows/Linux等）をご持参いただくことを推奨します。ブラウザからGoogle Colabへアクセスして手元で分析コードを動かせます。</p>
+      <p><a href="https://github.com/asatani/sciscitutorial" target="_blank" rel="noopener noreferrer">チュートリアルの資料とコード</a></p>
     </div>
   </div>
 </div>
